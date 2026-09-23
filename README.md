@@ -19,15 +19,6 @@ The focus is not just on completing courses, but on turning every concept into:
 
 **Learning → Coding → Problem Solving → Practice → Projects**
 
----
-
-## 🗺️ 6-Month Roadmap
-
-<p align="center">
-  <img src="./Roadmap.png" alt="AI Engineer 6 Month Roadmap" width="100%">
-</p>
-
----
 
 ## ⚡ Core Tracks
 
