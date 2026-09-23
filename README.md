@@ -2,10 +2,59 @@
 
 # AI Engineer Roadmap 2026–2027
 
-### 180 Days of Code • Practice • Problem Solving • Projects
+### 180 Days • Daily Coding • Problem Solving • Projects
 
-Building strong foundations in **Python, DSA, SQL, Git & GitHub** through consistent daily practice.
+Building job-ready skills through consistent hands-on practice in  
+**Python · DSA · SQL · Git & GitHub · LeetCode · Projects**
 
-[![Python](https://img.shields.io/badge/Python-Preparation-blue?logo=python)](./Python)
-[![DSA](https://img.shields.io/badge/DSA-Python-orange)](./Dsa-Python)
-[![SQL](
+</div>
+
+---
+
+## 🚀 The Mission
+
+This repository documents my **180-day AI Engineer preparation journey**.
+
+The focus is not just on completing courses, but on turning every concept into:
+
+**Learning → Coding → Problem Solving → Practice → Projects**
+
+---
+
+## 🗺️ 6-Month Roadmap
+
+<p align="center">
+  <img src="./Roadmap.png" alt="AI Engineer 6 Month Roadmap" width="100%">
+</p>
+
+---
+
+## ⚡ Core Tracks
+
+| Track | Focus |
+|---|---|
+| 🐍 **Python** | Complete Python + placement-focused practice |
+| 🧠 **DSA** | Data Structures & Algorithms using Python |
+| 🗄️ **SQL** | SQL concepts + interview problem solving |
+| 🔧 **Git & GitHub** | Version control + professional workflow |
+| 💻 **LeetCode** | Daily problem-solving practice |
+| 🚀 **Projects** | Applying concepts through real projects |
+
+---
+
+## 📈 How I Practice
+
+```text
+Learn
+  ↓
+Understand
+  ↓
+Code
+  ↓
+Solve Problems
+  ↓
+Build
+  ↓
+Commit
+  ↓
+Repeat
