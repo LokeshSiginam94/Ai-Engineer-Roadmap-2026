@@ -1,0 +1,13 @@
+num1=(30)
+num2=(40.0)
+num3=("55")
+num4=(True)
+num5=(False)
+num6=(complex(2,3))
+
+print(type(num1))
+print(type(num2))
+print(type(num3))
+print(type(num4))
+print(type(num5))
+print(type(num6))
